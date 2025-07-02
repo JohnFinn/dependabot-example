@@ -1,0 +1,3 @@
+[submodule "SpotX-Bash"]
+	path = SpotX-Bash
+	url = git@github.com:SpotX-Official/SpotX-Bash.git
